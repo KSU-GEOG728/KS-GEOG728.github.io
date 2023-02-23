@@ -26,10 +26,9 @@ I use a “flipped” classroom format such that I will expect each student to h
 
 There are no hard prerequisites for the course, however **a basic understanding of statistics and spatial analysis is expected**. Previous experience with programming (Python, Javascript, C, etc.) and/or geographic information system software (i.e.ArcGIS, QGIS) is a plus. 
 
-### Warning
 
 {: .box-warning}
-**Warning:** This is a warning box.
+**Warning:** 
 This course goes from 0 to 90 in about 7 seconds (like a Rivian R1S) so if you are coming into this class without much background in programming or spatial analysis you'll need to buckle down and put in some hard hours early on if you want to succeed.
 
 ## Texts and Computational Resources
