@@ -20,7 +20,7 @@ author: Kate Nelson
 ###############################################
 
 navbar-links:
-  About this Class: "aboutclass"
+  About this Class: "aboutclass.md"
   Resources:
     - Tutorials: "https://beautifuljekyll.com"
     - Reference Materials: "https://www.markdowntutorial.com/"
@@ -84,7 +84,7 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: flase
+  twitter: false
   facebook: false
   linkedin: false
   vk: false
