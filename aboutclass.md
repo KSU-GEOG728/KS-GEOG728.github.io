@@ -12,13 +12,13 @@ In the course students learn how to manipulate and display spatial data, describ
 
 The course is roughly divided into four primary topics:
 
-1. Introduction to R, data wrangling, and data visualization in R
+- Introduction to R, data wrangling, and data visualization in R
 
-2. Working with vector data in R
+- Working with vector data in R
 
-3. Working with raster data in R
+- Working with raster data in R
 
-4. Pattern analysis and spatial modeling in R
+- Pattern analysis and spatial modeling in R
 
 I use a “flipped” classroom format such that I will expect each student to have completed the readings and associated tutorial activities prior to class. In my experience programming is a skill that is best learned by doing. As such, class meetings will focus more on doing data analyses in R than on me telling you how to do data analysis in R. During class we will live code and work through spatial data analysis examples together and I will provide assistance on lab assignments and final projects.
 
@@ -35,11 +35,21 @@ This course goes from 0 to 90 in about 7 seconds (like a Rivian R1S) so if you a
 
 In keeping with working with an open source tool there is no required textbook for this class. Instead we will make use of the following free open source resources:
 
-[Cookbook for R](http://www.cookbook-r.com/)
-[YaRrr! The Pirate's Guide to R](https://bookdown.org/ndphillips/YaRrr/)
-[R for Data Science](https://r4ds.had.co.nz/)
-[Spatial Data Science with R](https://www.rspatial.org/index.html)
-[Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html)
+- [Cookbook for R](http://www.cookbook-r.com/)
+- [YaRrr! The Pirate's Guide to R](https://bookdown.org/ndphillips/YaRrr/)
+- [R for Data Science](https://r4ds.had.co.nz/)
+- [Spatial Data Science with R](https://www.rspatial.org/index.html)
+- [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html)
+
+## Acknowledgements
+
+Others to whom I am indebted and have drawn from extensively in the creation/curation of GEOG 728 course materials include:
+
+- [Dr. Emily Burchfield](https://www.emilyburchfield.org/courses/)
+- [Dr. Jonathan Gilligan](https://www.jonathangilligan.org/teaching/)
+
+
+
 
 
 
