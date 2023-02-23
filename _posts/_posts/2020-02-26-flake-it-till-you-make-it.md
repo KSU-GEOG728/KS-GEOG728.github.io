@@ -5,7 +5,7 @@ subtitle: What your first week of class will entail
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-date: 02/23/2023
+
 ---
 
 In the first week of class we'll learn how to install and start-up R and RStudio. We'll go over the RStudio interface and how to customize it, different types of R files, and learn different ways of entering information into - and getting answers from - RStudio.
