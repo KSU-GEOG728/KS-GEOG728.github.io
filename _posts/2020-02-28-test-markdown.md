@@ -8,7 +8,12 @@ tags: [test]
 comments: true
 ---
 
-GEOG 728 Geospatial Analysis and Programming in R is an advanced studio course on geospatial data analysis and modeling using R offered every other spring at Kansas State University.  In the course students learn how to manipulate and display spatial data, describe and summarize spatial data characteristics, explore patterns and relationships in spatial data, and conduct reproducible research using R. The course helps students to develop technical skills in programming and data analysis (with specific emphasis on spatial data wrangling) and soft skills related to independent problem-solving and trouble-shooting.
+GEOG 728 Geospatial Analysis and Programming in R is an advanced studio course on geospatial data analysis and modeling using R offered every other spring at Kansas State University.  This is the public-facing website for the course where information and materials can be examined by folks that are not member of the class student body. 
+
+
+## Course Description
+
+In the course students learn how to manipulate and display spatial data, describe and summarize spatial data characteristics, explore patterns and relationships in spatial data, and conduct reproducible research using R. The course helps students to develop technical skills in programming and data analysis (with specific emphasis on spatial data wrangling) and soft skills related to independent problem-solving and trouble-shooting.
 
 
 ## Course Topics and Format
@@ -27,35 +32,21 @@ I use a “flipped” classroom format such that I will expect each student to h
 
 ## Prerequisites
 
-There are no hard prerequisites for the course, however **a basic understanding of statistics and spatial analysis is expected**. Previous experience with programming (Python, Javascript, C, etc.) and/or geographic information system software (i.e.ArcGIS, QGIS) is a plus.
+There are no hard prerequisites for the course, however **a basic understanding of statistics and spatial analysis is expected**. Previous experience with programming (Python, Javascript, C, etc.) and/or geographic information system software (i.e.ArcGIS, QGIS) is a plus. 
 
-## Resources
+This course goes from 0 to 90 in about 7 seconds (like a Rivian R1S) so if you are coming into this class without much background in programming or spatial analysis you'll need to buckle down and put in some hard hours early on if you want to succeed.
+
+## Texts and Computational Resources
 
 In keeping with working with an open source tool there is no required textbook for this class. Instead we will make use of the following free open source resources:
 
-[Cookbook for R](Links to an external site.)
-[YaRrr! The Pirate's Guide to R](Links to an external site.)
-[R for Data Science]( Links to an external site.)
-[Spatial Data Science with R]( Links to an external site.)
-[Intro to GIS and Spatial Analysis]( Links to an external site.)
-
-While lab computers are available to students in the class, access is limited due to extensive use of the lab by other classes for instruction. Access to a personal computer (PC preferred) and at least 1 GB of storage space (on a USB drive or cloud storage service) is strongly reccommended.
+[Cookbook for R](http://www.cookbook-r.com/)
+[YaRrr! The Pirate's Guide to R](https://bookdown.org/ndphillips/YaRrr/)
+[R for Data Science](https://r4ds.had.co.nz/)
+[Spatial Data Science with R](https://www.rspatial.org/index.html)
+[Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html)
 
 
-## Boxes
-You can add notification, warning and error boxes like this:
 
-### Notification
 
-{: .box-note}
-**Note:** This is a notification box.
 
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
