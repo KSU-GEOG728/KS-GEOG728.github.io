@@ -5,7 +5,9 @@ subtitle: Why you'd want to take this class
 ---
 ## Course Description
 
-In the course students learn how to manipulate and display spatial data, describe and summarize spatial data characteristics, explore patterns and relationships in spatial data, and conduct reproducible research using R. The course helps students to develop technical skills in programming and data analysis (with specific emphasis on spatial data wrangling) and soft skills related to independent problem-solving and trouble-shooting.
+In the course students learn how to manipulate and display spatial data, describe and summarize spatial data characteristics, explore patterns and relationships in spatial data, and conduct reproducible research using R. The course helps students to develop technical skills in programming and data analysis (with specific emphasis on spatial data wrangling) and soft skills related to independent problem-solving, trouble-shooting, and conducting reproducible research.
+
+If you dream of being an awesome data wizard or get excited about solving spatial analysis problems but dislike pushing buttons this is the class for you!
 
 
 ## Course Topics and Format
