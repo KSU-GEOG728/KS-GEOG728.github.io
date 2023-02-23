@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ????
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Welcome to class
+subtitle: What your first week of class will entail
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
