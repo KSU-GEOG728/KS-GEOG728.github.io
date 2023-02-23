@@ -22,10 +22,9 @@ author: Kate Nelson
 navbar-links:
   About this Class: "aboutclass"
   Resources:
-    - Tutorials: "https://beautifuljekyll.com"
-    - Reference Materials: "https://www.markdowntutorial.com/"
-    - Lab Exercises:
-    - Lecture Materials:
+    - Tutorials: "tutorials"
+    - Lab Exercises: "labs"
+    - Lecture Materials: "lectures"
   Author's home: "https://scales-ksu.netlify.app/"
 
 ################
