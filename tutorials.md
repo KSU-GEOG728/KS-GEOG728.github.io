@@ -3,52 +3,30 @@ layout: page
 title: Tutorials
 subtitle: Guided walkthroughs of data analysis in R Markdown format
 ---
-## Course Description
+## What are the tutorials?
 
-In the course students learn how to manipulate and display spatial data, describe and summarize spatial data characteristics, explore patterns and relationships in spatial data, and conduct reproducible research using R. The course helps students to develop technical skills in programming and data analysis (with specific emphasis on spatial data wrangling) and soft skills related to independent problem-solving, trouble-shooting, and conducting reproducible research.
+Tutorials are documents that provide a guided walkthrough of a particular set of data analysis problems and techniques or specific R packages and tools. The tutorials provide a small amount of background explanation of analysis topics and R's inner workings, but focus mostly on practical appliation of R to problem solving. 
 
-If you dream of being an awesome data wizard or get excited about solving spatial analysis problems but dislike pushing buttons this is the class for you!
+The tutorials are presented in R Markdown .html files and can be viewing in a standard browser window such as GoogleChrome or FireFox. 
 
+## How to effectively use the tutorials
 
-## Course Topics and Format
+The tutorials are designed to introduce students to R code that can be used to solve specific applied data questions. They are not a stand-alone tool that is sufficient to provide a solid understanding of how to use R. 
 
-The course is roughly divided into four primary topics:
+Students should plan on not just reading the tutorial - *which is likely to be entirely ineffective at improving R coding ability or understanding* - but opening this tutorial side-by-side with their own RStudio window in which they type in and run each line of code. This allows the students to test each line of code independently and provides an opportunity (sometimes explicitly encouraged in the tutorials) to further examine the data or test the functions on examples not in the tutorial.
 
-- Introduction to R, data wrangling, and data visualization in R
+As the tutorials provide and introduction to practical application of R they should, ideally, be run **after** doing background reading and **before** attending class.
 
-- Working with vector data in R
-
-- Working with raster data in R
-
-- Pattern analysis and spatial modeling in R
-
-I use a “flipped” classroom format such that I will expect each student to have completed the readings and associated tutorial activities prior to class. In my experience programming is a skill that is best learned by doing. As such, class meetings will focus more on doing data analyses in R than on me telling you how to do data analysis in R. During class we will live code and work through spatial data analysis examples together and I will provide assistance on lab assignments and final projects.
-
-## Prerequisites
-
-There are no hard prerequisites for the course, however **a basic understanding of statistics and spatial analysis is expected**. Previous experience with programming (Python, Javascript, C, etc.) and/or geographic information system software (i.e.ArcGIS, QGIS) is a plus. 
+Again, I think of the tutorials as neccessary but not sufficient. They should be supplemented with reading, lecture, and practice. Similarly, to keep the length of the tutorials down, the examples presented are typically 'bare bones' and student exploration of the data and fucntions introduced in the tutorials while they are working through the tutorials is *highly reccomended*.
 
 
-{: .box-warning}
-**Warning:** 
-This course goes from 0 to 90 in about 7 seconds (like a Rivian R1S) so if you are coming into this class without much background in programming or spatial analysis you'll need to buckle down and put in some hard hours early on if you want to succeed.
+## The 'Official' Tutorials
 
-## Texts and Computational Resources
 
-In keeping with working with an open source tool there is no required textbook for this class. Instead we will make use of the following free open source resources:
 
-- [Cookbook for R](http://www.cookbook-r.com/)
-- [YaRrr! The Pirate's Guide to R](https://bookdown.org/ndphillips/YaRrr/)
-- [R for Data Science](https://r4ds.had.co.nz/)
-- [Spatial Data Science with R](https://www.rspatial.org/index.html)
-- [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html)
 
-## Acknowledgements
+## 'Unofficial' Tutorials
 
-Others to whom I am indebted and have drawn from extensively in the creation/curation of GEOG 728 course materials include:
-
-- [Dr. Emily Burchfield](https://www.emilyburchfield.org/courses/)
-- [Dr. Jonathan Gilligan](https://www.jonathangilligan.org/teaching/)
 
 
 
