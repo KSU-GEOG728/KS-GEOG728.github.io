@@ -3,16 +3,46 @@ layout: page
 title: About this Class
 subtitle: Why you'd want to take this class
 ---
+## Course Description
 
-My name is Inigo Montoya. I have the following qualities:
+In the course students learn how to manipulate and display spatial data, describe and summarize spatial data characteristics, explore patterns and relationships in spatial data, and conduct reproducible research using R. The course helps students to develop technical skills in programming and data analysis (with specific emphasis on spatial data wrangling) and soft skills related to independent problem-solving and trouble-shooting.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+## Course Topics and Format
 
-### My story
+The course is roughly divided into four primary topics:
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+1. Introduction to R, data wrangling, and data visualization in R
 
-My new content
+2. Working with vector data in R
+
+3. Working with raster data in R
+
+4. Pattern analysis and spatial modeling in R
+
+I use a “flipped” classroom format such that I will expect each student to have completed the readings and associated tutorial activities prior to class. In my experience programming is a skill that is best learned by doing. As such, class meetings will focus more on doing data analyses in R than on me telling you how to do data analysis in R. During class we will live code and work through spatial data analysis examples together and I will provide assistance on lab assignments and final projects.
+
+## Prerequisites
+
+There are no hard prerequisites for the course, however **a basic understanding of statistics and spatial analysis is expected**. Previous experience with programming (Python, Javascript, C, etc.) and/or geographic information system software (i.e.ArcGIS, QGIS) is a plus. 
+
+### Warning
+
+{: .box-warning}
+**Warning:** This is a warning box.
+This course goes from 0 to 90 in about 7 seconds (like a Rivian R1S) so if you are coming into this class without much background in programming or spatial analysis you'll need to buckle down and put in some hard hours early on if you want to succeed.
+
+## Texts and Computational Resources
+
+In keeping with working with an open source tool there is no required textbook for this class. Instead we will make use of the following free open source resources:
+
+[Cookbook for R](http://www.cookbook-r.com/)
+[YaRrr! The Pirate's Guide to R](https://bookdown.org/ndphillips/YaRrr/)
+[R for Data Science](https://r4ds.had.co.nz/)
+[Spatial Data Science with R](https://www.rspatial.org/index.html)
+[Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html)
+
+
+
+
+
