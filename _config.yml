@@ -20,7 +20,7 @@ author: Kate Nelson
 ###############################################
 
 navbar-links:
-  About this Class: "aboutclass.md"
+  About this Class: "aboutclass"
   Resources:
     - Tutorials: "https://beautifuljekyll.com"
     - Reference Materials: "https://www.markdowntutorial.com/"
