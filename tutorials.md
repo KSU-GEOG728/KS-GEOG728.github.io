@@ -23,7 +23,7 @@ Again, I think of the tutorials as neccessary but not sufficient. They should be
 ## The 'Official' Tutorials
 
 <li><a href="GEOG-728-Tutorial-1.html">Intro to R</a></li>
-<li><a href="GEOG-728-Tutorial-2.html">Intro to R</a></li>
+<li><a href="GEOG-728-Tutorial-2.html">Base R data analysis</a></li>
 
 
 
