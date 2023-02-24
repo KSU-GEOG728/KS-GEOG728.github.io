@@ -11,7 +11,7 @@ The tutorials are presented in R Markdown .html files and can be viewed in a sta
 
 ## How to effectively use the tutorials
 
-The tutorials are designed to introduce students to R code that can be used to solve specific applied data questions. They are not a stand-alone tool that is sufficient to provide a solid understanding of how to use R. 
+The tutorials are designed to introduce students to R code that can be used to solve specific applied data questions. They are not a stand-alone resource that is sufficient to provide a solid understanding of how to use R. 
 
 Students should plan on not just reading the tutorial - *which is likely to be entirely ineffective at improving R coding ability or understanding* - but opening this tutorial side-by-side with their own RStudio window in which they type in and run each line of code. This allows the student to test each line of code independently and provides an opportunity (sometimes explicitly encouraged in the tutorials) to further examine the data or test the functions on examples not run in the tutorial.
 
